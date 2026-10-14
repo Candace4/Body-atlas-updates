@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.12.0-alpha",
-  "apkUrl": "https://github.com/Candace4/Body-atlas-updates/releases/download/v0.12.0-alpha/body-atlas.apk",
-  "sha256": "f93a2807ec13ab95f5b02bbc2227bcc0b7592f4f1c842784f9b82d4b7aa0b6ec",
-  "notes": "Update-system test release. Existing Body Atlas records should be preserved."
+  "versionCode": 13,
+  "versionName": "0.13.0-alpha",
+  "apkUrl": "https://github.com/Candace4/Body-atlas-updates/releases/download/v0.13.0-alpha/body-atlas.apk",
+  "sha256": "39da6bbdf8770dc88442185c5b03b5d49629b2536b60913b1a35ee499e3c247b",
+  "notes": "Evidence-first personal baselines and health insight flags. Offline alpha."
 }

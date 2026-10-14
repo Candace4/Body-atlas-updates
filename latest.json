@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.14.0-alpha",
-  "apkUrl": "https://github.com/Candace4/Body-atlas-updates/releases/download/v0.14.0-alpha/body-atlas.apk",
-  "sha256": "894778e9fc82c72080f9d853e97baaa51ee35b6ee5fa6b125b82ebd85cbd8f5d",
-  "notes": "Verified v0.14 alpha update test. No health records are included."
+  "versionCode": 15,
+  "versionName": "0.15.0-alpha",
+  "apkUrl": "https://github.com/Candace4/Body-atlas-updates/releases/download/v0.15.0-alpha/body-atlas.apk",
+  "sha256": "9a5bd970205444da88339022aed76a3bfdc8bcdc9f97ce579504b257c899d114",
+  "notes": "Personal baselines with clear medians and simpler privacy notices."
 }

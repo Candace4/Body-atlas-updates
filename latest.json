@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19.0-alpha",
-  "apkUrl": "https://github.com/Candace4/Body-atlas-updates/releases/download/v0.19.0-alpha/body-atlas.apk",
-  "sha256": "dc17ae345322acb211ca4d80a62172170488732c03a09ab2986c2fec99fb2aa8",
+  "versionCode": 41,
+  "versionName": "0.41.0-alpha",
+  "apkUrl": "https://github.com/Candace4/Body-atlas-updates/releases/download/v0.41.0-alpha/body-atlas.apk",
+  "sha256": "ea26a974a01809a1516448a9402279c5b2061b59cdc0297390605c03453882f1",
   "notes": "Verified offline Body Atlas update."
 }
